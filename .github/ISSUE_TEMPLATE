@@ -1,0 +1,51 @@
+name: Bug Report or Port Request
+description: Report an issue with a pack or request a port to another Minecraft version.
+title: "[Request/Issue]: "
+body:
+  - type: input
+    id: mc_version
+    attributes:
+      label: Minecraft version
+      placeholder: e.g. 1.20.1
+    validations:
+      required: true
+
+  - type: input
+    id: mod_loader
+    attributes:
+      label: Mod loader
+      placeholder: e.g. Fabric, Forge, Quilt
+    validations:
+      required: false
+
+  - type: textarea
+    id: packs_used
+    attributes:
+      label: Which pack(s) from this repo?
+      placeholder: List all packs involved
+    validations:
+      required: false
+
+  - type: input
+    id: dependency_mod
+    attributes:
+      label: Dependency mod
+      placeholder: Link to the Modrinth page
+    validations:
+      required: false
+
+  - type: input
+    id: dependency_mod_version
+    attributes:
+      label: Dependency mod version
+      placeholder: Version listed on Modrinth under the Versions tab
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra_info
+    attributes:
+      label: Additional information
+      placeholder: Anything else relevant to the issue or port request
+    validations:
+      required: false
