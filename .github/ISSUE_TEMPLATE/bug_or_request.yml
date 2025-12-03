@@ -22,7 +22,7 @@ body:
     id: packs_used
     attributes:
       label: Which pack(s) from this repo?
-      placeholder: List all packs involved
+      placeholder: e.g. https://modrinth.com/resourcepack/stilllifebiomenamefix/
     validations:
       required: false
 
