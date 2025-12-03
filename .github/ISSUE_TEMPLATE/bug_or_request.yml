@@ -18,7 +18,7 @@ body:
     validations:
       required: false
 
-  - type: textarea
+  - type: input
     id: packs_used
     attributes:
       label: Which pack(s) from this repo?
@@ -30,7 +30,7 @@ body:
     id: dependency_mod
     attributes:
       label: Dependency mod
-      placeholder: Link to the Modrinth page
+      placeholder: e.g. https://modrinth.com/datapack/still-life
     validations:
       required: false
 
@@ -38,7 +38,7 @@ body:
     id: dependency_mod_version
     attributes:
       label: Dependency mod version
-      placeholder: Version listed on Modrinth under the Versions tab
+      placeholder: e.g. https://modrinth.com/datapack/still-life/version/0.1.1+mod
     validations:
       required: false
 
