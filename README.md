@@ -3,7 +3,9 @@
 This repository contains the **source code for all of my Minecraft projects**. Each project has its own dedicated folder, organized by version for easy navigation. Every folder includes all files used during development, ensuring full transparency.
 
 > **Licensing Notice:**
+
 > Every folder includes its own `LICENSE` file. This is just to prevent GitHub stacking folders. All projects are licensed under the **GNU General Public License v3 (GPLv3)**.
+
 > The separate license files are included for **visual clarity and convenience**, but mostly to prevent GitHub from collapsing directories on the main [NikoboiNFTB/Minecraft](https://github.com/NikoboiNFTB/Minecraft) page.
 
 ### Repository Structure
