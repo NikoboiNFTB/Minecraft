@@ -9,7 +9,7 @@ Each folder is also **individually linked on its respective [Modrinth](https://m
 
 ## Multiple Licenses Note
 
-Every folder includes its own `LICENSE` file. All projects are licensed under the **GNU General Public License v3 (GPLv3)**. The separate license files are included for **visual clarity and convenience**, but mostly to prevent GitHub from collapsing directories on the main page. See [`.github/ISSUE_TEMPLATE` on the main page](https://github.com/NikoboiNFTB/Minecraft) for an example of the stacking in question.
+Every folder includes its own `LICENSE` file. All projects are licensed under the **GNU General Public License v3 (GPLv3)**. The separate license files are included for **visual clarity and convenience**, but mostly to prevent GitHub from collapsing directories on the main page. See [`.github/ISSUE_TEMPLATE`](https://github.com/NikoboiNFTB/Minecraft) on the main page for an example of the stacking in question.
 
 
 ## Contributing
@@ -23,7 +23,3 @@ Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
 ## License
 
 This project is licenced under the GNU General Public License V3. See [LICENSE](LICENSE) for details.
-
-## Legal Disclaimer
-
-If needed, for traversing the gray areas.
