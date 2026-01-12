@@ -117,7 +117,7 @@ Feel free to fork this repository and submit issues or pull requests if you have
 ## Credits
 
 Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**  
-Textures made ub **[GIMP](https://www.gimp.org/)**
+Textures made in **[GIMP](https://www.gimp.org/)**
 
 ## License
 
