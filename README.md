@@ -19,125 +19,87 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 ├── Axeable-Lacugrove-Bookshelf
 │   ├── 4.0.11+1.20.1
 │   │   ├── data
-│   │   │   └── minecraft/tags/blocks/mineable/axe.json
+│   │   │   └── minecraft/tags/blocks/mineable/
+│   │   │       └── axe.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 2025-08-10_11.41.21.png
 │   ├── Diamond_Axe_JE3_BE3.png
-│   ├── lacugrove_bookshelf.png
-│   └── LICENSE
+│   └── lacugrove_bookshelf.png
 │
 ├── Fortunate-Gleaming-Ore
 │   ├── 0.3.3.1+1.20.1
-│   │   ├── data
-│   │   │   └── things
-│   │   │       └── loot_tables
-│   │   │           └── blocks
-│   │   │               ├── deepslate_gleaming_ore.json
-│   │   │               └── gleaming_ore.json
+│   │   ├── data/things/loot_tables/blocks/
+│   │   │   ├── deepslate_gleaming_ore.json
+│   │   │   └── gleaming_ore.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 0.3.3+1.20
-│   │   ├── data
-│   │   │   └── things
-│   │   │       └── loot_tables
-│   │   │           └── blocks
-│   │   │               ├── deepslate_gleaming_ore.json
-│   │   │               └── gleaming_ore.json
+│   │   ├── data/things/loot_tables/blocks/
+│   │   │   ├── deepslate_gleaming_ore.json
+│   │   │   └── gleaming_ore.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 2025-08-09_16.14.00.png
 │   ├── Diamond_Pickaxe_JE3_BE3.png
-│   ├── gleaming_ore.png
-│   └── LICENSE
+│   └── gleaming_ore.png
 │
 ├── Hell-On-Earth-Unpublished
-│   ├── hell_on_earth-1.0.0-fabric-1.20.1.jar
-│   └── LICENSE
+│   └── hell_on_earth-1.0.0-fabric-1.20.1.jar
 │
 ├── Hoable-Wet-Menger-Sponge
 │   ├── 21.0.11+1.21
-│   │   ├── data
-│   │   │   └── minecraft
-│   │   │       └── tags
-│   │   │           └── blocks
-│   │   │               └── mineable
-│   │   │                   └── hoe.json
+│   │   ├── data/minecraft/tags/blocks/mineable/
+│   │   │   └── hoe.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 4.0.11+1.20
-│   │   ├── data
-│   │   │   └── minecraft
-│   │   │       └── tags
-│   │   │           └── blocks
-│   │   │               └── mineable
-│   │   │                   └── hoe.json
+│   │   ├── data/minecraft/tags/blocks/mineable/
+│   │   │   └── hoe.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── Diamond_Hoe_JE3_BE3.png
-│   ├── LICENSE
 │   └── menger_sponge_wet.png
 │
 ├── Make-Uncrafting-Table-Mineable
 │   ├── 1.5.2+1.20
-│   │   ├── data
-│   │   │   └── minecraft
-│   │   │       └── tags
-│   │   │           └── blocks
-│   │   │               └── mineable
-│   │   │                   └── axe.json
+│   │   ├── data/minecraft/tags/blocks/mineable/
+│   │   │   └── axe.json
 │   │   └── pack.mcmeta
 │   ├── 1.5.4+1.21
-│   │   ├── data
-│   │   │   └── minecraft
-│   │   │       └── tags
-│   │   │           └── blocks
-│   │   │               └── mineable
-│   │   │                   └── axe.json
+│   │   ├── data/minecraft/tags/blocks/mineable/
+│   │   │   └── axe.json
 │   │   └── pack.mcmeta
 │   ├── 194df8f21c829b4264123aa90a145364deb452b0_96.webp
 │   ├── Diamond_Axe_JE3_BE3.png
-│   ├── LICENSE
 │   └── Make Uncrafting Table Mineable.png
 │
 ├── Still-Life-Biome-Name-Fix
 │   ├── 0.1.1+1.20.1
-│   │   ├── assets
-│   │   │   └── minecraft
-│   │   │       └── lang
-│   │   │           └── en_us.json
+│   │   ├── assets/minecraft/lang/
+│   │   │   └── en_us.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
-│   ├── 0.1.1+1.21.1
-│   │   ├── assets
-│   │   │   └── minecraft
-│   │   │       └── lang
-│   │   │           └── en_us.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   └── LICENSE
+│   └── 0.1.1+1.21.1
+│       ├── assets/minecraft/lang/
+│       │   └── en_us.json
+│       ├── pack.mcmeta
+│       └── pack.png
 │
 ├── Visible-Gleaming-Ore
 │   ├── 0.3.3+1.20
-│   │   ├── assets
-│   │   │   └── things
-│   │   │       └── textures
-│   │   │           └── block
-│   │   │               ├── deepslate_gleaming_ore.png
-│   │   │               └── gleaming_ore.png
+│   │   ├── assets/things/textures/block
+│   │   │   ├── deepslate_gleaming_ore.png
+│   │   │   └── gleaming_ore.png
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 0.4.2+1.21
-│   │   ├── assets
-│   │   │   └── things
-│   │   │       └── textures
-│   │   │           └── block
-│   │   │               ├── deepslate_gleaming_ore.png
-│   │   │               └── gleaming_ore.png
+│   │   ├── assets/things/textures/block
+│   │   │   ├── deepslate_gleaming_ore.png
+│   │   │   └── gleaming_ore.png
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── gleaming_ore.png
-│   ├── LICENSE
 │   └── pack.png
 │
 ├── LICENSE
