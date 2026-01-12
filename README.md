@@ -4,7 +4,7 @@ Source code for all my *Minecraft* projects.
 
 ## Overview
 
-Each project has its own folder, with every version stored separately, along with any additional development files. For a detailed overview, see the File Tree below. Each folder is linked individually on their [Modrinth](https://modrinth.com/user/Nikoboi) pages.
+Each project has its own folder, with every version stored separately, along with any additional development files. For a detailed overview, see the [File Tree](https://github.com/NikoboiNFTB/Minecraft/tree/main?tab=readme-ov-file#file-tree) below. Each folder is linked individually on their [Modrinth](https://modrinth.com/user/Nikoboi) pages.
 
 ## Multiple Licenses Note
 
