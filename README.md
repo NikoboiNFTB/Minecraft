@@ -19,18 +19,14 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 ├── Axeable-Lacugrove-Bookshelf
 │   ├── 4.0.11+1.20.1
 │   │   ├── data
-│   │   │   └── minecraft
-│   │   │       └── tags
-│   │   │           └── blocks
-│   │   │               └── mineable
-│   │   │                   └── axe.json
-│   │   ├── 4.0.11+1.20.1.zip
+│   │   │   └── minecraft/tags/blocks/mineable/axe.json
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 2025-08-10_11.41.21.png
 │   ├── Diamond_Axe_JE3_BE3.png
 │   ├── lacugrove_bookshelf.png
 │   └── LICENSE
+│
 ├── Fortunate-Gleaming-Ore
 │   ├── 0.3.3.1+1.20.1
 │   │   ├── data
@@ -39,7 +35,6 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── blocks
 │   │   │               ├── deepslate_gleaming_ore.json
 │   │   │               └── gleaming_ore.json
-│   │   ├── 0.3.3.1+1.20.1.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 0.3.3+1.20
@@ -49,16 +44,17 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── blocks
 │   │   │               ├── deepslate_gleaming_ore.json
 │   │   │               └── gleaming_ore.json
-│   │   ├── 0.3.3+1.20.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 2025-08-09_16.14.00.png
 │   ├── Diamond_Pickaxe_JE3_BE3.png
 │   ├── gleaming_ore.png
 │   └── LICENSE
+│
 ├── Hell-On-Earth-Unpublished
 │   ├── hell_on_earth-1.0.0-fabric-1.20.1.jar
 │   └── LICENSE
+│
 ├── Hoable-Wet-Menger-Sponge
 │   ├── 21.0.11+1.21
 │   │   ├── data
@@ -67,7 +63,6 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── blocks
 │   │   │               └── mineable
 │   │   │                   └── hoe.json
-│   │   ├── 21.0.11+1.21.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 4.0.11+1.20
@@ -77,12 +72,12 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── blocks
 │   │   │               └── mineable
 │   │   │                   └── hoe.json
-│   │   ├── 4.0.11+1.20.1.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── Diamond_Hoe_JE3_BE3.png
 │   ├── LICENSE
 │   └── menger_sponge_wet.png
+│
 ├── Make-Uncrafting-Table-Mineable
 │   ├── 1.5.2+1.20
 │   │   ├── data
@@ -91,7 +86,6 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── blocks
 │   │   │               └── mineable
 │   │   │                   └── axe.json
-│   │   ├── 1.5.2+1.20.zip
 │   │   └── pack.mcmeta
 │   ├── 1.5.4+1.21
 │   │   ├── data
@@ -100,19 +94,18 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── blocks
 │   │   │               └── mineable
 │   │   │                   └── axe.json
-│   │   ├── 1.5.4+1.21.zip
 │   │   └── pack.mcmeta
 │   ├── 194df8f21c829b4264123aa90a145364deb452b0_96.webp
 │   ├── Diamond_Axe_JE3_BE3.png
 │   ├── LICENSE
 │   └── Make Uncrafting Table Mineable.png
+│
 ├── Still-Life-Biome-Name-Fix
 │   ├── 0.1.1+1.20.1
 │   │   ├── assets
 │   │   │   └── minecraft
 │   │   │       └── lang
 │   │   │           └── en_us.json
-│   │   ├── 0.1.1+1.20.1.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 0.1.1+1.21.1
@@ -120,10 +113,10 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │   └── minecraft
 │   │   │       └── lang
 │   │   │           └── en_us.json
-│   │   ├── 0.1.1+1.21.1.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   └── LICENSE
+│
 ├── Visible-Gleaming-Ore
 │   ├── 0.3.3+1.20
 │   │   ├── assets
@@ -132,7 +125,6 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── block
 │   │   │               ├── deepslate_gleaming_ore.png
 │   │   │               └── gleaming_ore.png
-│   │   ├── 0.3.3+1.20.1.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── 0.4.2+1.21
@@ -142,12 +134,12 @@ Every folder includes its own `LICENSE` file. All projects are licensed under th
 │   │   │           └── block
 │   │   │               ├── deepslate_gleaming_ore.png
 │   │   │               └── gleaming_ore.png
-│   │   ├── 0.4.2+1.21.zip
 │   │   ├── pack.mcmeta
 │   │   └── pack.png
 │   ├── gleaming_ore.png
 │   ├── LICENSE
 │   └── pack.png
+│
 ├── LICENSE
 └── README.md
 
