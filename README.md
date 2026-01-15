@@ -4,13 +4,11 @@ Source code for all my *Minecraft* projects.
 
 ## Overview
 
-Each project has its own folder, with every version stored separately, along with any additional development files. For a detailed overview, see the [File Tree](#file-tree) below. Each folder is linked individually on their [Modrinth](https://modrinth.com/user/Nikoboi) pages.
+Each project has its own folder, with every version stored separately, along with any additional development files in `/assets/`. For a detailed overview, see the [File Tree](#file-tree) below.
 
-## Multiple Licenses Note
+All my projects are available on [Modrinth](https://modrinth.com/user/Nikoboi).
 
-Every folder includes its own `LICENSE` file. All projects are licensed under the **GNU General Public License v3 (GPLv3)**. The separate license files are included for **visual clarity and convenience**, but mostly to prevent GitHub from collapsing directories on the main page. See [`.github/ISSUE_TEMPLATE`](https://github.com/NikoboiNFTB/Minecraft) on the main page for an example of the stacking in question.
-
->> Will make separate README.md files instead, later.
+Each project folder has its own README.md file included.
 
 ## File Tree
 
@@ -116,7 +114,8 @@ Feel free to fork this repository and submit issues or pull requests if you have
 
 ## Credits
 
-Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**  
+Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
+
 Textures made in **[GIMP](https://www.gimp.org/)**
 
 ## License
