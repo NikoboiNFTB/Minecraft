@@ -85,8 +85,6 @@ Each project folder has its own README.md file included.
 72 directories, 70 files
 ```
 
->> Nice!
-
 ## Contributing
 
 Feel free to fork this repository and submit issues or pull requests if you have any suggestions or improvements. If you encounter any bugs or have feature requests, please open an issue.
