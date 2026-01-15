@@ -15,95 +15,74 @@ Each project folder has its own README.md file included.
 ```text
 .
 ├── Axeable-Lacugrove-Bookshelf
-│   ├── 4.0.11+1.20.1
-│   │   ├── data
-│   │   │   └── minecraft/tags/blocks/mineable/
-│   │   │       └── axe.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── 2025-08-10_11.41.21.png
-│   ├── Diamond_Axe_JE3_BE3.png
-│   └── lacugrove_bookshelf.png
+│   ├── <Version>+<Minecraft_Version>
+│   │   ├── data/minecraft/tags/blocks/mineable
+│   │   │   └── axe.json
+│   │   ├── pack.mcmeta
+│   │   └── pack.png
+│   ├── assets
+│   │   └── ...
+│   └── README.md
 │
 ├── Fortunate-Gleaming-Ore
-│   ├── 0.3.3.1+1.20.1
-│   │   ├── data/things/loot_tables/blocks/
-│   │   │   ├── deepslate_gleaming_ore.json
-│   │   │   └── gleaming_ore.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── 0.3.3+1.20
-│   │   ├── data/things/loot_tables/blocks/
-│   │   │   ├── deepslate_gleaming_ore.json
-│   │   │   └── gleaming_ore.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── 2025-08-09_16.14.00.png
-│   ├── Diamond_Pickaxe_JE3_BE3.png
-│   └── gleaming_ore.png
+│   ├── <Version>+<Minecraft_Version>
+│   │   ├── data/things/loot_tables/blocks
+│   │   │   ├── gleaming_ore.json
+│   │   │   └── deepslate_gleaming_ore.json
+│   │   ├── pack.mcmeta
+│   │   └── pack.png
+│   ├── assets
+│   │   └── ...
+│   └── README.md
 │
 ├── Hell-On-Earth-Unpublished
-│   └── hell_on_earth-1.0.0-fabric-1.20.1.jar
+│   ├── hell_on_earth-<Version>-fabric-<Minecraft_Version>.jar
+│   └── README.md
 │
 ├── Hoable-Wet-Menger-Sponge
-│   ├── 21.0.11+1.21
-│   │   ├── data/minecraft/tags/blocks/mineable/
-│   │   │   └── hoe.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── 4.0.11+1.20
-│   │   ├── data/minecraft/tags/blocks/mineable/
-│   │   │   └── hoe.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── Diamond_Hoe_JE3_BE3.png
-│   └── menger_sponge_wet.png
+│   ├── <Version>+<Minecraft_Version>
+│   │   ├── data/minecraft/tags/blocks/mineable
+│   │   │   └── hoe.json
+│   │   ├── pack.mcmeta
+│   │   └── pack.png
+│   ├── assets
+│   │   └── ...
+│   └── README.md
 │
 ├── Make-Uncrafting-Table-Mineable
-│   ├── 1.5.2+1.20
-│   │   ├── data/minecraft/tags/blocks/mineable/
-│   │   │   └── axe.json
-│   │   └── pack.mcmeta
-│   ├── 1.5.4+1.21
-│   │   ├── data/minecraft/tags/blocks/mineable/
-│   │   │   └── axe.json
-│   │   └── pack.mcmeta
-│   ├── 194df8f21c829b4264123aa90a145364deb452b0_96.webp
-│   ├── Diamond_Axe_JE3_BE3.png
-│   └── Make Uncrafting Table Mineable.png
+│   ├── <Version>+<Minecraft_Version>
+│   │   ├── data/minecraft/tags/blocks/mineable
+│   │   │   └── axe.json
+│   │   └── pack.mcmeta
+│   ├── assets
+│   │   └── ...
+│   └── README.md
 │
 ├── Still-Life-Biome-Name-Fix
-│   ├── 0.1.1+1.20.1
-│   │   ├── assets/minecraft/lang/
-│   │   │   └── en_us.json
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   └── 0.1.1+1.21.1
-│       ├── assets/minecraft/lang/
-│       │   └── en_us.json
-│       ├── pack.mcmeta
-│       └── pack.png
+│   ├── <Version>+<Minecraft_Version>
+│   │   ├── assets/minecraft/lang
+│   │   │   └── en_us.json
+│   │   ├── pack.mcmeta
+│   │   └── pack.png
+│   ├── assets
+│   │   └── pack.png
+│   └── README.md
 │
 ├── Visible-Gleaming-Ore
-│   ├── 0.3.3+1.20
-│   │   ├── assets/things/textures/block
-│   │   │   ├── deepslate_gleaming_ore.png
-│   │   │   └── gleaming_ore.png
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── 0.4.2+1.21
-│   │   ├── assets/things/textures/block
-│   │   │   ├── deepslate_gleaming_ore.png
-│   │   │   └── gleaming_ore.png
-│   │   ├── pack.mcmeta
-│   │   └── pack.png
-│   ├── gleaming_ore.png
-│   └── pack.png
+│   ├── <Version>+<Minecraft_Version>
+│   │   ├── assets/things/textures/block
+│   │   │   ├── gleaming_ore.png
+│   │   │   └── deepslate_gleaming_ore.png
+│   │   ├── pack.mcmeta
+│   │   └── pack.png
+│   ├── assets
+│   │   └── ...
+│   └── README.md
 │
 ├── LICENSE
 └── README.md
 
-66 directories, 69 files
+72 directories, 70 files
 ```
 
 >> Nice!
