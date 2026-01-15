@@ -8,6 +8,6 @@ This Data Pack adds the tag minecraft:mineable/axe to uncraftingtable76:uncrafti
 
 ## Links
 
-Link to Data Pack: [https://modrinth.com/datapack/make-uncrafting-table-mineable](https://modrinth.com/datapack/make-uncrafting-table-mineable)
+Link to Data Pack: [Make Uncrafting Table Mineable](https://modrinth.com/datapack/make-uncrafting-table-mineable)
 
-Original Mod: https://modrinth.com/mod/simple-uncrafting-table
+Original Mod: [Simple Uncrafting Table](https://modrinth.com/mod/simple-uncrafting-table)

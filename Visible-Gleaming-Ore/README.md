@@ -8,8 +8,8 @@ This simple Resource Pack adds an outline to Gleaming Ore and Deepslate Gleaming
 
 ## Links
 
-Link to Data Pack: [https://modrinth.com/resourcepack/visible-gleaming-ore](https://modrinth.com/resourcepack/visible-gleaming-ore)
+Link to Data Pack: [Visible Gleaming Ore](https://modrinth.com/resourcepack/visible-gleaming-ore)
 
-Link to original mod: [https://modrinth.com/mod/things](https://modrinth.com/mod/things)
+Link to original mod: [Things](https://modrinth.com/mod/things)
 
-Does something similar to this mod: [https://modrinth.com/resourcepack/ore-highlighter](https://modrinth.com/resourcepack/ore-highlighter)
+Does something similar to this Resource Pack: [Ore Highlighter](https://modrinth.com/resourcepack/ore-highlighter)

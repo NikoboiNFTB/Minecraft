@@ -8,6 +8,6 @@ This Data Pack adds the "mineable/hoe" tag to the Wet Menger Sponge block added 
 
 ## Links
 
-Link to Data Pack: [https://modrinth.com/datapack/hoeable-wet-menger-sponge](https://modrinth.com/datapack/hoeable-wet-menger-sponge)
+Link to Data Pack: [Hoeable Wet Menger Sponge](https://modrinth.com/datapack/hoeable-wet-menger-sponge)
 
-Link to original mod: [https://modrinth.com/mod/betterend](https://modrinth.com/mod/betterend)
+Link to original mod: [BetterEnd](https://modrinth.com/mod/betterend)

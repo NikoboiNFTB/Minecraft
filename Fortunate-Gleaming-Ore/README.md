@@ -10,6 +10,6 @@ It changes the loot table to work identically to the Diamond Ore loot table, whe
 
 ## Links
 
-Link to Data pack: [https://modrinth.com/datapack/fortunate-gleaming-ore](https://modrinth.com/datapack/fortunate-gleaming-ore)
+Link to Data pack: [Fortunate Gleaming Ore](https://modrinth.com/datapack/fortunate-gleaming-ore)
 
-Link to original mod: [https://modrinth.com/mod/things/](https://modrinth.com/mod/things/)
+Link to Original Mod: [Things](https://modrinth.com/mod/things/)

@@ -8,6 +8,6 @@ This Data Pack adds the "mineable/axe" tag to the Lacugrove Bookshelf block adde
 
 ## Links
 
-Link to Data Pack: [https://modrinth.com/datapack/axeable-lacugrove-bookshelf](https://modrinth.com/datapack/axeable-lacugrove-bookshelf)
+Link to Data Pack: [Axeable Lacugrove Bookshelf](https://modrinth.com/datapack/axeable-lacugrove-bookshelf)
 
-Link to original mod: [https://modrinth.com/mod/betterend](https://modrinth.com/mod/betterend)
+Link to Original Mod: [BetterEnd](https://modrinth.com/mod/betterend)

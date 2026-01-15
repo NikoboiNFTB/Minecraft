@@ -8,4 +8,8 @@ This resource pack clarifies and improves the readability of Still Life biomes! 
 
 For example, instead of seeing a biome ID like "biome.still_life.tropical_rainforest," you'll see "Tropical Rainforest." This is especially useful in mods like Xaero's World Map, where biome names are displayed.
 
-Link to original mod: [https://modrinth.com/datapack/still-life](https://modrinth.com/datapack/still-life)
+## Links
+
+Link to Resource Pack: [Still Life Biome Name Fix](https://modrinth.com/resourcepack/stilllifebiomenamefix)
+
+Link to original mod: [Still Life](https://modrinth.com/datapack/still-life)
