@@ -1,6 +1,6 @@
 # Minecraft
 
-Source code for all my *Minecraft* projects.
+Source code for all my _Minecraft_ projects.
 
 ## Overview
 
