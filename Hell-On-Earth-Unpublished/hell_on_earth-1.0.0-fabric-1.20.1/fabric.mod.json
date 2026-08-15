@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "hell_on_earth",
+  "version": "1.0.0",
+  "name": "Hell On Earth",
+  "authors": [
+    "nikob, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Not specified",
+  "accessWidener": "hell_on_earth.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.hellonearth.HellOnEarthMod"
+    ],
+    "client": [
+      "net.hellonearth.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "hell_on_earth.mixins.json"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/hellonearth/mixins/NoiseGeneratorSettingsAccess": {
+      "surfaceRule": "comp_478:Lnet/minecraft/class_6686$class_6708;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/hellonearth/mixins/NoiseGeneratorSettingsAccess": {
+        "surfaceRule": "comp_478:Lnet/minecraft/class_6686$class_6708;"
+      }
+    }
+  }
+}

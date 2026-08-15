@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.hellonearth.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "NoiseGeneratorSettingsAccess"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "hell_on_earth.refmap.json"
+}
